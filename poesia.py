@@ -10,3 +10,4 @@ print("Ao seu pesar ou seu contentamento")
 print("\n\n\n")
 
 #mudanca 2 no arquivo .poesia.py
+#mudanca no arquivo depois de baixado do github
